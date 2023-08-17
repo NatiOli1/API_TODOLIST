@@ -20,6 +20,9 @@ public class Todo {
         this.status = status;
     }
 
+    public Todo() {
+    }
+
     public Integer getId() {
         return id;
     }
